@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoinFit</string>
+    <string name="coin_name">Coin Name</string>
+    <string name="btc">BTC</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="refresh">Refresh</string>
+</resources>
